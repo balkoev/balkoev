@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi there!🤘</h2>
 <p align="center">
-  <samp>My name is Darsen, I'm from Moscow! <br> <br> I am a Frontend JavaScript/TypeScript developer. 😎
+  <samp>My name is Adam, I'm from Moscow! <br> <br> I am a Frontend JavaScript/TypeScript developer. 😎
   </samp>
   <br> <br>
 </p>
@@ -10,13 +10,9 @@
 <h2 align="center">💬 Reach me on</h2>
 
 <p align="center" align='right'>
-  <a target="_blank" href="mailto:darsenungarlinov00@gmail.com"><img
+  <a target="_blank" href="mailto:adam22185515@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://balkoev.vercel.app"><img
-    src="https://img.shields.io/badge/balkoev.vercel.app-20232A?style=for-the-badge&logo=vercel"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://balkoev.netlify.app"><img
-    src="https://img.shields.io/badge/balkoev.netlify.app-20232A?style=for-the-badge&logo=netlify"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://t.me/d4rse"><img
+  <a target="_blank" href="https://t.me/balkoev"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
