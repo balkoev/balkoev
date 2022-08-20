@@ -1,5 +1,3 @@
-![balkoev's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=balkoev&hide_border=true&theme=redical)
-
 <h2 align="center">Hi there!🤘</h2>
 <p align="center">
   <samp>My name is Adam, I'm from Moscow! <br> <br> I am a Frontend JavaScript/TypeScript developer. 😎
